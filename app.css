@@ -77,6 +77,8 @@ body {
 .pricing-img {
   margin-bottom: 25px;
   max-width: 100%;
+  height: auto;
+  width: 400px;
 }
 
 .pricing-header {
